@@ -1,0 +1,51 @@
+# Geotecnia1 — Antofagasta
+
+> Geotechnical engineering services in Antofagasta, Chile.
+
+## Services
+- [Aislacion Sismica](https://antofagasta.geotecnia1.com/aislacion-sismica/)
+- [Anclajes](https://antofagasta.geotecnia1.com/anclajes/)
+- [Cbr Vial](https://antofagasta.geotecnia1.com/cbr-vial/)
+- [Cimentaciones](https://antofagasta.geotecnia1.com/cimentaciones/)
+- [Columnas Grava](https://antofagasta.geotecnia1.com/columnas-grava/)
+- [Densidad Cono Arena](https://antofagasta.geotecnia1.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://antofagasta.geotecnia1.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://antofagasta.geotecnia1.com/ensayo-triaxial/)
+- [Ensayos Proctor](https://antofagasta.geotecnia1.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://antofagasta.geotecnia1.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://antofagasta.geotecnia1.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://antofagasta.geotecnia1.com/excavaciones-subterraneo/)
+- [Exploracion](https://antofagasta.geotecnia1.com/exploracion/)
+- [Geofisica](https://antofagasta.geotecnia1.com/geofisica/)
+- [Geotecnia Vial](https://antofagasta.geotecnia1.com/geotecnia-vial/)
+- [Laboratorio In Situ](https://antofagasta.geotecnia1.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://antofagasta.geotecnia1.com/laboratorio-lab/)
+- [Licuefaccion](https://antofagasta.geotecnia1.com/licuefaccion/)
+- [Limites Atterberg](https://antofagasta.geotecnia1.com/limites-atterberg/)
+- [Losa De Cimentacion](https://antofagasta.geotecnia1.com/losa-de-cimentacion/)
+- [Losas Fundacion](https://antofagasta.geotecnia1.com/losas-fundacion/)
+- [Masw](https://antofagasta.geotecnia1.com/masw/)
+- [Masw Vs30](https://antofagasta.geotecnia1.com/masw-vs30/)
+- [Mejoramiento](https://antofagasta.geotecnia1.com/mejoramiento/)
+- [Microzonificacion Sismica](https://antofagasta.geotecnia1.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://antofagasta.geotecnia1.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://antofagasta.geotecnia1.com/muros-contencion/)
+- [Pavimento Flexible](https://antofagasta.geotecnia1.com/pavimento-flexible/)
+- [Pavimento Rigido](https://antofagasta.geotecnia1.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://antofagasta.geotecnia1.com/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://antofagasta.geotecnia1.com/permeabilidad-in-situ/)
+- [Pilotes](https://antofagasta.geotecnia1.com/pilotes/)
+- [Placa De Carga](https://antofagasta.geotecnia1.com/placa-de-carga/)
+- [Sismica](https://antofagasta.geotecnia1.com/sismica/)
+- [Sondaje Spt](https://antofagasta.geotecnia1.com/sondaje-spt/)
+- [Sondajes Spt](https://antofagasta.geotecnia1.com/sondajes-spt/)
+- [Taludes](https://antofagasta.geotecnia1.com/taludes/)
+- [Triaxial](https://antofagasta.geotecnia1.com/triaxial/)
+- [Tuneles Suelo Blando](https://antofagasta.geotecnia1.com/tuneles-suelo-blando/)
+
+## Contact
+- Website: https://antofagasta.geotecnia1.com/
+
+## About
+This site provides geotechnical engineering services in Antofagasta, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
